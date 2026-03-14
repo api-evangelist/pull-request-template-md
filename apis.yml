@@ -1,0 +1,13 @@
+name: PULL_REQUEST_TEMPLATE.md
+description: Template file that pre-populates pull request descriptions with structured
+  sections like change summary, testing steps, and checklist items.
+url: ''
+tags:
+- Templates
+- Code Review
+- Repository
+- Collaboration
+created: '2025'
+modified: '2025'
+apis: []
+common: []
