@@ -1,13 +1,19 @@
+aid: pull-request-template-md
 name: PULL_REQUEST_TEMPLATE.md
 description: Template file that pre-populates pull request descriptions with structured
   sections like change summary, testing steps, and checklist items.
-url: ''
+type: Index
+url: https://raw.githubusercontent.com/api-evangelist/pull-request-template-md/refs/heads/main/apis.yml
 tags:
 - Templates
 - Code Review
 - Repository
 - Collaboration
-created: '2025'
-modified: '2025'
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
