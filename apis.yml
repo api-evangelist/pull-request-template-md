@@ -23,6 +23,7 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pull-request-template-md.png
 name: PULL_REQUEST_TEMPLATE.md
+x-type: convention
 description: Template file that pre-populates pull request descriptions with structured sections like change summary, testing steps, and checklist items.
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/pull-request-template-md/refs/heads/main/apis.yml
